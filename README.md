@@ -25,6 +25,17 @@ spam_model.pkl → Trained model
 vectorizer.pkl → Text vectorizer  
 csv files → Dataset  
 
+## Screenshots
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Spam Detection
+![Spam](screenshots/results.png)
+
+### Influential Words and Their Contribution to Spam Classification
+![Spam](screenshots/interpretability.png)
+
 ## Author
 
 Asavera
