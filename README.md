@@ -2,17 +2,6 @@
 
 A machine learning web application that classifies emails as **Spam** or **Ham** using NLP.
 
-## Screenshots
-
-### Home Screen
-![Home](Pictures/screenshots/home.png)
-
-### Spam Detection
-![Spam](Pictures/screenshots/results.png)
-
-### Influential Words and Their Contribution to Spam Classification
-![Spam](Pictures/screenshots/interpretability.png)
-
 ## Features
 
 - Spam/Ham prediction
