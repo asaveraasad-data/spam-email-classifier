@@ -2,6 +2,8 @@
 
 A machine learning web application that classifies emails as **Spam** or **Ham** using NLP.
 
+## Screenshots
+
 ![Home](home.png)
 
 ![Spam](results.png)
